@@ -1,2 +1,2 @@
 #!/bin/bash
-type *SCHOOL
+0 SCHOOL School text\School| ! :mime text\School
